@@ -124,7 +124,7 @@ body {
 }
 /*start landing style*/
   .landing {
-    background-image: url(../images/istockphoto-942114106-612x612.jpg);
+    background-image: url("../images/istockphoto-942114106-612x612.jpg");
     background-size: cover;
     height: calc(100vh - 58px);
     position: relative;
